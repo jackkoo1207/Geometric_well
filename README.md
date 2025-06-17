@@ -1,3 +1,3 @@
 - To-do list:
-1. Initialise position near the rim of well
-2. See what happen for no-well data
+1. Plot Angle analysis of wander, rim, and restart
+2. Try different depth value until secondary peak is obvious
